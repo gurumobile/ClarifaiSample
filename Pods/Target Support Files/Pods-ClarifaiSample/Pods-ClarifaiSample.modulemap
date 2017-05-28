@@ -1,0 +1,6 @@
+framework module Pods_ClarifaiSample {
+  umbrella header "Pods-ClarifaiSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
